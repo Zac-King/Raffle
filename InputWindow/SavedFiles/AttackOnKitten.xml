@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Raffle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Candidates>
+    <Candidate>
+      <Name>done</Name>
+      <NumOfEntries>3</NumOfEntries>
+    </Candidate>
+    <Candidate>
+      <Name>done</Name>
+      <NumOfEntries>3</NumOfEntries>
+    </Candidate>
+    <Candidate>
+      <Name>done</Name>
+      <NumOfEntries>3</NumOfEntries>
+    </Candidate>
+  </Candidates>
+</Raffle>
